@@ -14,7 +14,7 @@
 
 ### Análise orientada a objetos
 
-### Programação orientada a objetos
+### Programação orientada a objetos ✔️
 
 ### Projeto Orientado a Objetos
 
@@ -24,21 +24,21 @@
 
 ### Descrição de casos de uso
 
-### Objetos
+### Objetos ✔️
 
-### Classes
+### Classes ✔️
 
-### Diagrama de Classes
+### Diagrama de Classes ✔️
 
 ### Multiplicação de classes
 
-### Abstração
+### Abstração ✔️
 
-### Encapsulamento
+### Encapsulamento ✔️
 
 ### Associação (Agregação, composição e herança)
 
-### Diagrama de colaboração entre classes
+### Diagrama de colaboração entre classes ✔️
 
 ### Diagrama de interação e sequência
 
