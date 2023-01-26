@@ -8,9 +8,9 @@
 
 ### Levantamento de requisitos funcionais do sistema
 
-### Regras de negócio
+### Regras de negócio ✔️
 
-### Técnicas de levantamento e registro de requisitos (entrevistas, questionários, brainstorming)
+### Técnicas de levantamento e registro de requisitos (entrevistas, questionários, brainstorming) ✔️
 
 ### Análise orientada a objetos
 
